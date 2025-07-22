@@ -35,6 +35,11 @@ button:hover {
   background-color: #ccc;
 }
 
+button[data-value="Ans"] {
+  background-color: #6c757d;
+  color: white;
+}
+
 #equals {
   grid-column: span 2;
   background-color: #28a745;
